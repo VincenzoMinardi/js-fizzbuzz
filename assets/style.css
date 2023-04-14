@@ -33,5 +33,17 @@ h1{
     align-items: center;
     height: 100px;
     width: 100px;
-    background-color: chocolate;
+    background-color: yellow;
+}
+
+.cell3{
+    background-color:white;
+}
+
+.cell5{
+    background-color: maroon;
+}
+
+.cell15{
+    background-color: salmon;
 }
